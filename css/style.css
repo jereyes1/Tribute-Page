@@ -4,10 +4,8 @@ html, body, main, section, header, div, article, aside, figure, image, iframe, h
 }
 :root {
   --brown: #89614B; /* container color */
-  --gray: #272727; /* button text */
   --white: #fff; /* paragraph text */
   --accent: #F47E29; /* permanent header hover affect */
-  --dk-acc: #00A0D0; /* hover effect */
   --reg: all .3s ease-in-out;
   --font: 'Nosifer', sans-serif;
   font-size: 62.5%;
